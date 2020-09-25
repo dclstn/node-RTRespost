@@ -1,2 +1,2 @@
-# Repost Reddit to Twitter bot
-Posts trending threads from a selected reddit to twitter.
+# Repost Reddit to Twitter
+Posts trending threads from a selected sub-reddit to twitter.
